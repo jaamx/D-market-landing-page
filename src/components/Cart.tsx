@@ -12,7 +12,10 @@ const itemCount = 0
 const fee = 1
 
    return <Sheet>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1ee6fcd415965d1d66b5466352362b8b28341b9f
          <SheetTrigger className='group -m-2  items-center p-2'>
             <ShoppingCart aria-hidden='true' className='h-6 w-6 flex-shrink-0 text-gray-400 group-hover:text-gray-500'/>
          </SheetTrigger>
